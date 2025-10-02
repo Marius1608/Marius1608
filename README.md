@@ -6,11 +6,9 @@
 
 ```
 🌐 Web Development: Java, Spring Boot, React, TypeScript
-💾 Databases: MySQL
+💾 Databases: MySQL, PostgreSQL
 🧮 Programming: C/C++, Python
-🖼️ Graphics: OpenGL, OpenCV
 ⚙️ Systems: Operating Systems, Fundamental Algorithms
-🛠️ Tools: Microsoft Office
 ```
 
 ## 📚 Education
