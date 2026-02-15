@@ -5,10 +5,9 @@
 ## 🔧 Technical Skills
 
 ```
-🌐 Web Development: Java, Spring Boot, React, TypeScript
+🌐 Web Development: Spring Boot, React, TypeScript
 💾 Databases: MySQL, PostgreSQL
-🧮 Programming: C/C++, Python
-⚙️ Systems: Operating Systems, Fundamental Algorithms
+🧮 Programming: Python, Java
 ```
 
 ## 📚 Education
